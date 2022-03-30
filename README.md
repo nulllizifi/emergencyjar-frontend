@@ -14,4 +14,4 @@ The jar creator can add and remove owners of the jar. Jar owners, including the 
 
 Do take a look!
 
-~ Maria Elizabeth Mutia
+~ Liz Mutia
